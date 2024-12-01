@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "day-one:challenge-one": "ts-node day-one/challenge-one/solution.ts",
-    "day-one:challenge-two": "ts-node day-one/challenge-two/solution.ts"
+    "2024:day-one:challenge-one": "ts-node 2024/day-one/challenge-one/solution.ts",
+    "2024:day-one:challenge-two": "ts-node 2024/day-one/challenge-two/solution.ts"
   },
   "author": "",
   "license": "ISC",
